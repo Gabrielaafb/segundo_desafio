@@ -1,0 +1,61 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    background-image: url("../img/logo.jpg");
+   
+
+    }
+
+    .header{
+    height: 8em;
+    padding: 2em;
+    font-size: 2em;
+    background-image: url("../img/CafeLiterario.jpg");
+    background-size:cover;
+    background-position: center;
+    }
+    .header h1{
+        margin: justify;
+        font-weight: 300;
+        }
+          
+          
+    table {
+        text-align: center;
+        width: 80%;
+        margin: 50px;
+        }
+
+        table, th, td {
+        padding: 10%;
+        border: 1px solid #ddd;
+        border-style:none;
+        border-collapse:collapse;
+        border-radius: 10%;
+        background-color: white;
+        }
+        
+
+    .products {
+        width: 80%;
+        margin: auto;
+        }
+        .products td {
+        width: 50%;
+        padding: 2em;
+        }
+        .products img {
+        width: 100%;
+        border: transparent ;
+        border-radius: 5%;
+        }
+        .footer {
+            height: 10em;
+            line-height: 3em;
+            background-color: rgb(97, 48, 0);
+            color: white;
+            text-align: center;
+            font-weight: 900;
+            text-align: center;
+            }
+            
